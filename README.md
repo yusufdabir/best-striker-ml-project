@@ -57,7 +57,7 @@ Although global strikers like **Cristiano Ronaldo** were not in the dataset (Por
 **Created by:** Yusuf Dabir  
 📧 Email: yusufdabir65gmail.com
 🔗 LinkedIn: www.linkedin.com/in/mohammad-yusuf-dabir-82487b269 
-📦 GitHub: [github.com/your_username]
+📦 GitHub: github.com/yusufdabir
 
 ---
 
